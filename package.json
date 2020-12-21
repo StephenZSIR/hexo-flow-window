@@ -1,0 +1,24 @@
+{
+  "name": "hexo-flow-window",
+  "version": "2.0.0",
+  "description": "flow window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenZSIR/hexo-flow-window.git"
+  },
+  "keywords": [
+    "hexo",
+    "flow",
+    "window"
+  ],
+  "author": "stephenzsir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenZSIR/hexo-flow-window/issues"
+  },
+  "homepage": "https://github.com/StephenZSIR/hexo-flow-window#readme"
+}
