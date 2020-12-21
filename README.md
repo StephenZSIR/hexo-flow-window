@@ -30,6 +30,7 @@ winflow:
     z_index: 99 #浮动层级别
 ```
 
+``` bash
 localtion可配置参数
 default: 注入到每个页面
 home: 只注入到主页
@@ -38,3 +39,4 @@ page: 只注入到独立页面
 archive: 只注入到归档页面
 category: 只注入到分类页面
 tag: 只注入到标签页面
+```
